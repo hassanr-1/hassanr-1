@@ -2,7 +2,7 @@
   <img align="right" src="https://visitcount.itsvg.in/api?id=tahseens-S&label=Profile%20Views&icon=2&pretty=true" />
 </a>
 
-![GitHub User's stars](https://img.shields.io/github/stars/tahseens-S?label=Total%20Stars&color=22c55e)
+![GitHub User's stars](https://img.shields.io/github/stars/tahseens-S?label=Total%20Stars\&color=22c55e)
 
 <h3 align="center">
   Hey There!, I am
@@ -21,41 +21,41 @@
 </p>
 
 <p align="center">
-「 Multi-disciplinary tech professional working across Data, AI, Web Engineering, and Team Leadership. Focused on scalable, production-ready solutions. 」
+  Hassan R is a multi-disciplinary technology professional specializing in Data Science, AI/ML/DL, and Full-Stack Engineering. He leads projects end-to-end, turning complex requirements into scalable, production-ready systems with a strong focus on quality, performance, and delivery.
 </p>
 
 ---
 
 ## My Tech Stack
 
-![Java](https://img.shields.io/badge/JAVA-0B1220?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-0B1220?style=for-the-badge&logo=python&logoColor=yellow)
-![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0B1220?style=for-the-badge&logo=javascript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-0B1220?style=for-the-badge&logo=php&logoColor=purple)
-![MySQL](https://img.shields.io/badge/MYSQL-0B1220?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-0B1220?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-0B1220?style=for-the-badge\&logo=python\&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge\&logo=html5\&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge\&logo=css3\&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0B1220?style=for-the-badge\&logo=javascript\&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-0B1220?style=for-the-badge\&logo=php\&logoColor=purple)
+![MySQL](https://img.shields.io/badge/MYSQL-0B1220?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0B1220?style=for-the-badge\&logo=postgresql\&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-![Cisco](https://img.shields.io/badge/CISCO-0B1220?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-0B1220?style=for-the-badge&logo=git&logoColor=orange)
-![Markdown](https://img.shields.io/badge/MARKDOWN-0B1220?style=for-the-badge&logo=markdown&logoColor=white)
-![WordPress](https://img.shields.io/badge/WORDPRESS-0B1220?style=for-the-badge&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![Nginx](https://img.shields.io/badge/NGINX-0B1220?style=for-the-badge&logo=nginx&logoColor=green)
-![Docker](https://img.shields.io/badge/DOCKER-0B1220?style=for-the-badge&logo=docker&logoColor=blue)
+![Cisco](https://img.shields.io/badge/CISCO-0B1220?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-0B1220?style=for-the-badge\&logo=git\&logoColor=orange)
+![Markdown](https://img.shields.io/badge/MARKDOWN-0B1220?style=for-the-badge\&logo=markdown\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WORDPRESS-0B1220?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-0B1220?style=for-the-badge\&logo=visualstudiocode\&logoColor=blue)
+![Nginx](https://img.shields.io/badge/NGINX-0B1220?style=for-the-badge\&logo=nginx\&logoColor=green)
+![Docker](https://img.shields.io/badge/DOCKER-0B1220?style=for-the-badge\&logo=docker\&logoColor=blue)
 
 ---
 
 ## AI / ML Stack
 
-![NumPy](https://img.shields.io/badge/NUMPY-0B1220?style=for-the-badge&logo=numpy&logoColor=blue)
-![Pandas](https://img.shields.io/badge/PANDAS-0B1220?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/SCIKIT--LEARN-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-0B1220?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![PyTorch](https://img.shields.io/badge/PYTORCH-0B1220?style=for-the-badge&logo=pytorch&logoColor=red)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-0B1220?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-0B1220?style=for-the-badge\&logo=numpy\&logoColor=blue)
+![Pandas](https://img.shields.io/badge/PANDAS-0B1220?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/SCIKIT--LEARN-0B1220?style=for-the-badge\&logo=scikitlearn\&logoColor=orange)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-0B1220?style=for-the-badge\&logo=tensorflow\&logoColor=orange)
+![PyTorch](https://img.shields.io/badge/PYTORCH-0B1220?style=for-the-badge\&logo=pytorch\&logoColor=red)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-0B1220?style=for-the-badge\&logo=plotly\&logoColor=white)
 
 ---
 
