@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-「 Multi-disciplinary technology professional working across Data Science, AI/ML, Web Engineering, and Team Leadership. Focused on scalable, production-ready systems. 」
+Hassan R is a multi-disciplinary technology professional specializing in Data Science, AI/ML/DL, and Full-Stack Engineering. He leads projects end-to-end, turning complex requirements into scalable, production-ready systems with a strong focus on quality, performance, and delivery.
 </p>
 
 ---
